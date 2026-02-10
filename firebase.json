@@ -1,0 +1,42 @@
+{
+  "firestore": {
+    "indexes": "firestore.indexes.json"
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "afk-pub",
+          "appId": "1:545868656528:android:f60ec86c2b880fa836cd15",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "afk-pub",
+          "configurations": {
+            "android": "1:545868656528:android:f60ec86c2b880fa836cd15",
+            "ios": "1:545868656528:ios:55cb5657290a90af36cd15",
+            "macos": "1:545868656528:ios:55cb5657290a90af36cd15",
+            "web": "1:545868656528:web:6eb5f5adbaad39c636cd15",
+            "windows": "1:545868656528:web:07d3fc631d39528436cd15"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

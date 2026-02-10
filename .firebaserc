@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "afk-pub"
+  },
+  "targets": {
+    "afk-pub": {
+      "hosting": {
+        "prest-zone": [
+          "www.prest-zone.com"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "origin": [
+      "https://www.prest-zone.com",
+      "https://www.prest-zone.com/shop/1",
+      "https://www.prest-zone.com/shop/2",
+      "https://www.prest-zone.com/shop/3",
+      "https://www.prest-zone.com/shop/4",
+      "https://www.prest-zone.com/shop/5",
+      "https://www.prest-zone.com/media",
+      "https://www.prest-zone.com/admin",
+      "http://localhost:*"
+    ],
+    "method": ["GET"],
+    "maxAgeSeconds": 3600
+  }
+]

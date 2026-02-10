@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "545868656528",
+    "project_id": "afk-pub",
+    "storage_bucket": "afk-pub.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545868656528:android:7bcd77d58a3b6b0a36cd15",
+        "android_client_info": {
+          "package_name": "com.afk.pub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU0RCBsfLenDmdrH6wNTKV71wBccDzXa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545868656528:android:f60ec86c2b880fa836cd15",
+        "android_client_info": {
+          "package_name": "com.afk.pub_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU0RCBsfLenDmdrH6wNTKV71wBccDzXa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
